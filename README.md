@@ -15,8 +15,8 @@
 - ゲームモードの有効化
 
 ## 今後のアップデートに関して
-なにか問題が発生次第アップデートします
-あと気分
+継続してアップデートをする予定です。
 
-## Credit
+## 参考
 https://github.com/piennu777/remove-000-tool
+https://www.youtube.com/@Tansan-BoF
