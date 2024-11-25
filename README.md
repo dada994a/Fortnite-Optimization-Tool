@@ -18,5 +18,8 @@
 継続してアップデートをする予定です。
 
 ## 参考
-https://github.com/piennu777/remove-000-tool
-https://www.youtube.com/@Tansan-BoF
+- https://github.com/piennu777/remove-000-tool
+- https://www.youtube.com/@Tansan-BoF
+
+##
+スターお願いします！
